@@ -9,7 +9,7 @@ class OldCrazyMan: UIDeveloper {
   var repositories: [Repositories]
   var contacts = [
     "https:/t.me/baikonur_man", // telegram
-    "akhmtimyr@gmail.com" // email
+    "baikonur.dev@gmail.com" // email
   ]
 }
 ```
